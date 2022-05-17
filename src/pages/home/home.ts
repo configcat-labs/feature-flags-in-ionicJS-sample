@@ -12,9 +12,9 @@ export class HomePage {
   public items = [];
 
   constructor(public navCtrl: NavController, public modalCtrl: ModalController, public dataService: Data) {
-    this.dataService.getData().then((todos) => {
-      if(todos){
-        this.items = todos;
+    this.dataService.getData().then((items) => {
+      if(items){
+        this.items = items;
       }
     });
   }
