@@ -1,7 +1,7 @@
 
 # A simple ionic to do app with feature flags
 
-## [Read the accompaying blog post here](https://configcat.com/blog/2022/07/29/how-to-use-feature-flags-in-ionic-js/)
+## Read the accompaying blog post [here](https://configcat.com/blog/2022/07/29/how-to-use-feature-flags-in-ionic-js/)
 
 
 ![Ionic ConfigCat Banner](https://configcat.com/blog/assets/images/ionic-js-configcat-banner-15403721b8a4eb55a1e6e9aea27bb43d.png)
