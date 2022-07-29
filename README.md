@@ -1,7 +1,7 @@
 
 # A simple ionic to do app with feature flags
 
-#### (Optional) In case the blog post is already published, please add: [Read the blog post here](https://configcat.com/blog/)
+## [Read the accompaying blog post here](https://configcat.com/blog/2022/07/29/how-to-use-feature-flags-in-ionic-js/)
 
 This repo is the code of an Ionic simple to-do app that uses [ConfigCat's feature flags](https://configcat.com).
 
